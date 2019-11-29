@@ -1,6 +1,6 @@
 # burnSeverity
-Files in this repository are used in the paper __Multi-temporal abrupt change estimation on Landsat time series 
-imagery: An application to analyze burn severity in La Primavera, Mexico__.
+Files in this repository are used in the paper **_Multi-temporal abrupt change estimation on Landsat time series 
+imagery: An application to analyze burn severity in La Primavera, Mexico_**.
 
 **getSeverityMaps_23_1.R** contains auxiliary functions utilized for loading RData files, rasterize matrices, estimate
 abrupt changes, calculate severity (dNBR), etc.
