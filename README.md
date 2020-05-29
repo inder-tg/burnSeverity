@@ -1,7 +1,5 @@
 # burnSeverity
-Files in this repository are used in the paper **_Burned area maps for La Primavera, Mexico: An
-application of statistical abrupt change estimation to
-Landsat-7 time series imagery_**.
+Files in this repository are used in the paper **_On the potential of BFAST for monitoring burned areas using multi-temporal Landsat-7 images_**.
 
 **getSeverityMaps_23_1.R** contains auxiliary functions utilized for loading RData files, rasterize matrices, estimate
 abrupt changes, calculate severity (dNBR), etc.
